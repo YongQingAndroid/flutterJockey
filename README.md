@@ -31,3 +31,4 @@ JockeyWebView(  /// 继承与Webview
  // javascriptMode:  JavascriptMode.unrestricted,  
 );
 ```
+[jockeyJS文件下载](https://raw.githubusercontent.com/YongQingAndroid/flutterJockey/main/jockey.js)
